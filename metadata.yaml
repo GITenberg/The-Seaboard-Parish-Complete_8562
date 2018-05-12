@@ -1,5 +1,8 @@
 _repo: The-Seaboard-Parish-Complete_8562
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacDonald, George
@@ -11,6 +14,8 @@ creator:
 description:
 - 'Sequel: The vicar''s daughter.'
 - 'Sequel to: Annals of a quiet neighborhood.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8562#The-Seaboard-Parish-Complete
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
